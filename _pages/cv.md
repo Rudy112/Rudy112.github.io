@@ -38,9 +38,9 @@ Skills
 
 Publications
 ======
-  <ul>Learning to Grasp Clothing Structural Regions for Garment Manipulation TasksLearning to Grasp Clothing Structural Regions for Garment Manipulation Tasks,
+  <ul>>{%Learning to Grasp Clothing Structural Regions for Garment Manipulation TasksLearning to Grasp Clothing Structural Regions for Garment Manipulation Tasks,
     IEEE IROS-2023,
-  Dec 13 2023</ul>
+  Dec 13 2023%}</ul>
   
 Talks
 ======
