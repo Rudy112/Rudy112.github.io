@@ -14,10 +14,7 @@ I am very fortunate to be advised by Dr Nicolas Rojas of REDS Lab.
 
 
 
-[Email](w.chen21@imperial.ac.uk) / [Github](https://github.com/Rudy112) / [Wechat](../images/wechat.jpg) /
+Find me in [Email](w.chen21@imperial.ac.uk) / [Github](https://github.com/Rudy112) / [Wechat](../images/wechat.jpg)!
 
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
