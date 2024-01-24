@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering, 太原理工大学 Taiyuan University of Technology, 2019
+* M.S. in Robotics, King's College London, 2020
+* Ph.D in Robotics, Imperial College London, 2025 (expected)
 
 Work experience
 ======
@@ -29,18 +29,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mechanical Design: Solidoworks
+* Programming Related Tools
+  * Python
+  * ROS
+  * MATLAB
+* LATEX
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>Learning to Grasp Clothing Structural Regions for Garment Manipulation TasksLearning to Grasp Clothing Structural Regions for Garment Manipulation Tasks,
+    IEEE IROS-2023,
+  Dec 13 2023</ul>
   
 Talks
 ======
