@@ -3,7 +3,7 @@ title: "TraKDis: A Transformer-based Knowledge Distillation Approach for Visual 
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '**Wei Chen** and Nicolas Rojas'
-date: 2024-1-25
+date: 2024-01-25
 venue: ' IEEE Robotics and Automation Letters '
 paperurl: 'https://arxiv.org/abs/2401.13362'
 
