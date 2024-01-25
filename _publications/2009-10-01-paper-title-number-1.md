@@ -1,7 +1,7 @@
 ---
 title: "Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks"
 collection: publications
-permalink: /publication/garment_hang
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-12-01
 venue: 'The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)'
