@@ -1,7 +1,7 @@
 ---
 title: "TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-3
+permalink: /publication/transformer
 excerpt: ''
 date: 2024-1-25
 venue: ' IEEE Robotics and Automation Letters '
