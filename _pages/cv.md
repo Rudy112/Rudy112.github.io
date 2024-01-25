@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechanical Engineering, 太原理工大学 Taiyuan University of Technology, 2019
+* B.Eng. in Mechanical Engineering,Taiyuan University of Technology, 2019
 * M.S. in Robotics, King's College London, 2020
 * Ph.D in Robotics, Imperial College London, 2025 (expected)
 
