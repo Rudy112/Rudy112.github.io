@@ -1,7 +1,7 @@
 ---
 title: "G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: ''
 date: 2023-12-01
 venue: ' IEEE Robotics and Automation Letters '
