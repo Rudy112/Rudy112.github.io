@@ -3,7 +3,7 @@ title: "Learning to Grasp Clothing Structural Regions for Garment Manipulation T
 collection: publications
 permalink: /publication/garment_hang
 excerpt: '**Wei Chen**, Dongmyoung Lee, Digby Chappell, and Nicolas Rojas'
-date: 2024-01-22
+date: 2023-12-10
 venue: 'The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)'
 paperurl: 'https://arxiv.org/pdf/2306.14553.pdf'
 ---
