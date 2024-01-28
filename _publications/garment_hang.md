@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2306.14553.pdf'
 ---
 
 
-![myfile](https://github.com/Rudy112/weichen.github.io/blob/new/images/garment_hang.gif)
+![myfile](https://github.com/Rudy112/weichen.github.io/blob/87041fe500b3c1eb26b21bc01a6931ce1515d919/images/garment_hang.gif)
 
 
 
