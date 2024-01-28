@@ -10,6 +10,7 @@ paperurl: 'https://arxiv.org/pdf/2401.10702.pdf'
 
 ---
 
+![trial1_b 00_00_00-00_00_30](https://github.com/Rudy112/weichen.github.io/assets/55579633/932fecf2-d5ff-471f-91b1-2f6787124273)
 
 
 The manipulation of garments poses research challenges due to their deformable nature and the extensive variability in shapes and sizes. Despite numerous attempts by researchers to address these via approaches involving robot perception and control, there has been a relatively limited interest in resolving it through the co-development of robot hardware. Consequently, the majority of studies employ off-the-shelf grippers in conjunction with dual robot arms to enable bimanual manipulation and high dexterity. However, this dual-arm system increases the overall cost of the robotic system as well as its control complexity in order to tackle robot collisions and other robot coordination issues. As an alternative approach, we propose to enable bimanual cloth manipulation using a single robot arm via novel end effector design—sharing dexterity skills between manipulator and gripper rather than relying entirely on robot arm coordination. 
