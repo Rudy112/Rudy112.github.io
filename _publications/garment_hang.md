@@ -19,5 +19,5 @@ When performing cloth-related tasks, such as garment hanging, it is often import
 Experiments demonstrate that our proposed grasping strategy achieves 92%, 80%, and 50% grasping success rates with one folded garment, one crumpled garment and three crumpled garments, respectively. Our grasping strategy performs considerably better than tested baselines that do not take into account the structural nature of the garments. With the proposed region segmentation and grasping strategy, challenging garment hanging tasks are successfully implemented using an open-loop control policy.
 
 
-[Download paper here](https://arxiv.org/pdf/2306.14553.pdf) | [website](https://sites.google.com/view/garment-hanging) | [presentation](https://www.youtube.com/watch?v=fEmlbfU8yss)
+[Download paper here](https://arxiv.org/pdf/2306.14553.pdf) | [Website](https://sites.google.com/view/garment-hanging) | [Presentation](https://www.youtube.com/watch?v=fEmlbfU8yss)
 
