@@ -18,7 +18,7 @@ The manipulation of garments poses research challenges due to their deformable n
 
 To this end, we introduce a new gripper, called G.O.G., based on a gripper-on-gripper structure where the first gripper independently regulates the span, up to 500mm, between its fingers which are in turn also grippers. These finger grippers consist of a variable friction module that enables two grasping modes: firm and sliding grasps. Household item and cloth object benchmarks are employed to evaluate the performance of the proposed design, encompassing both experiments on the gripper design itself and on cloth manipulation. Experimental results demonstrate the potential of the introduced ideas to undertake a range of bimanual cloth manipulation tasks with a single robot arm.
 
-[Download paper here](https://arxiv.org/pdf/2401.10702.pdf) | [website](https://sites.google.com/view/gripperongripper)
+[Download paper here](https://arxiv.org/pdf/2401.10702.pdf) | [Website](https://sites.google.com/view/gripperongripper)
 
 
 
