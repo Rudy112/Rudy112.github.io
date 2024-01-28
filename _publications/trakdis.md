@@ -8,8 +8,9 @@ venue: ' IEEE Robotics and Automation Letters '
 paperurl: 'https://arxiv.org/abs/2401.13362'
 ---
 
-![](https://github.com/Rudy112/weichen.github.io/blob/new/images/Trakdis.gif)
 
+
+![Trakdis](https://github.com/Rudy112/weichen.github.io/assets/55579633/470ecae9-c57f-484b-a641-5c7259d57f4b)
 
 Approaching robotic cloth manipulation using reinforcement learning based on visual feedback is appealing as robot perception and control can be learned simultaneously. However, major challenges result due to the intricate dynamics of cloth and the high dimensionality of the corresponding states, what shadows the practicality of the idea. To tackle these issues, we propose TraKDis, a novel Transformer-based Knowledge Distillation approach that decomposes the visual reinforcement learning problem into two distinct stages. 
 
