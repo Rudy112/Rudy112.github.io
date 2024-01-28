@@ -15,17 +15,6 @@ Education
 * M.S. in Robotics, King's College London, 2020
 * Ph.D in Robotics, Imperial College London, 2025 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -54,4 +43,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ICRA, IROS and RA-L
+* Team leader for ICRA 2023 Cloth Manipulation Challenge 
