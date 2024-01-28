@@ -2,7 +2,7 @@
 title: "G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm"
 collection: publications
 permalink: /publication/gog.md
-excerpt: 'Dongmyoung Lee\*, **Wei Chen**\*, Xiaoshuai Chen, and Nicolas Rojas'
+excerpt: 'Dongmyoung Lee\*, **Wei Chen\*,** Xiaoshuai Chen, and Nicolas Rojas'
 date: 2024-01-22
 venue: ' IEEE Robotics and Automation Letters '
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10410659'
