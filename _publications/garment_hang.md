@@ -8,8 +8,8 @@ venue: 'The 2023 IEEE/RSJ International Conference on Intelligent Robots and Sys
 paperurl: 'https://arxiv.org/pdf/2306.14553.pdf'
 ---
 
+<img src="https://github.com/Rudy112/weichen.github.io/blob/87041fe500b3c1eb26b21bc01a6931ce1515d919/images/garment_hang.gif" width="80%" height="80%">
 
-![myfile](https://github.com/Rudy112/weichen.github.io/blob/87041fe500b3c1eb26b21bc01a6931ce1515d919/images/garment_hang.gif)
 
 
 
